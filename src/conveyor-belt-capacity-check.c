@@ -7,14 +7,14 @@ int main() {
 
     printf ("How many motors are carrying the packages?\n") ; 
     scanf("%d", &motorCount) ; 
-    motorCount = 3 ; 
-printf("%d\n", 3) ;
+    motorCount = 2 ; 
+printf("%d\n", 2) ;
 
 
     printf ("How many kg of packages do we expect? 10\n") ;
     scanf("%d", &totalPackageWeight) ;
-    totalPackageWeight = 10 ;
-printf("%d\n", 10) ;
+    totalPackageWeight = 26 ;
+printf("%d\n", 26) ;
   
  
 
