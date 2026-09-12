@@ -18,10 +18,10 @@ printf("%d\n", 10) ;
   
  
 
-if (totalPackageWeight <= 12) {
+if (totalPackageWeight <= 12) 
      printf("Yes! The conveyor belt can carry the packages.\n");
 
-} else {
+else 
      printf("No! The conveyor belt cannot carry the packages.\n");
     
     /// YOUR CODE HERE
